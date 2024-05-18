@@ -59,6 +59,7 @@ with open(f"liquidacion_{nombreTrabajador}.txt", "w") as archivo:
     archivo.write(f"Sueldo Base: $ {sueldoBase}\n")
     archivo.write(f"Horas Totales Trabajadas: {horas}\n")
     archivo.write(f"Horas Extras Trabajadas: {horasExtras}\n")
+    archivo.write(f"Sueldo Bruto: $ {sueldoBruto}")
     archivo.write(f"Descuento Fonasa: $ {descuentoFonasa}\n")
     archivo.write(f"Descuento AFP: $ {descuentoAFP}\n")
     archivo.write(f"Total a pagar: $ {sueldoLiquido}\n")
