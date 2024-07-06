@@ -1,0 +1,6 @@
+Detalles del Cliente:
+Nombre del Cliente: Jose Carrillo Vera
+Contacto:  988032125
+Tipo de evento: Familiar
+Tipo de menu: Japonesa
+Cantidad de comensales: 15

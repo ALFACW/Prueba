@@ -1,0 +1,6 @@
+Detalles del Cliente:
+Nombre del Cliente: Gloria Webar Muñoz
+Contacto:  976647854
+Tipo de evento: Corporativo
+Tipo de menu: Italiano
+Cantidad de comensales: 8
